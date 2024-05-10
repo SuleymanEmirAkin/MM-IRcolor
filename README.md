@@ -1,5 +1,19 @@
 # MULTI-MODE INFRARED IMAGE COLORIZATION
-The code will be uploaded when the article is accepted.
+
+This is an implementation of the "MULTI-MODE INFRARED IMAGE COLORIZATION" paper.
+
+Our paper: ON REVIEW 
+
+The code base developed on the Implementation of **Generating Visible Spectrum Images From Thermal Infrared** <br>
+[Generating Visible Spectrum Images From Thermal Infrared](https://openaccess.thecvf.com/content_cvpr_2018_workshops/w21/html/Berg_Generating_Visible_Spectrum_CVPR_2018_paper.html) <br>
+[Implementation of Generating Visible Spectrum Images From Thermal Infrared](https://github.com/amandaberg/TIRcolorization) <br>
+
+## How to Run
+
+To execute the code, run code/train.py.
+
+In order to try dual and single modes, you should modify the code (Give zero matrix instead of actual input).
+
 
 ## Results
 | | | |
