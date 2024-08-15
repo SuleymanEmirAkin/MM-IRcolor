@@ -451,6 +451,7 @@ def C_block(H, nch, bn, downsample, first=False):
         H = Conv2D(nch, (3,3), padding = 'same', kernel_initializer='glorot_normal')(H)
     if bn:
         H = BatchNormalization(axis = -1)(H)
+    return H
 
 def CD_block(H, nch, bn, upsample):
     H = LeakyReLU(0.0)(H)
