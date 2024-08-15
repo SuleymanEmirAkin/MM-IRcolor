@@ -2,7 +2,7 @@
 
 This is an implementation of the "MULTI-MODE INFRARED IMAGE COLORIZATION" paper.
 
-Our paper: ON REVIEW 
+Our paper: Accepted to [Artificial Intelligence and Image and Signal Processing for Remote Sensing XXX, SPIE](https://spie.org/spie-sensors-imaging/presentation/Multi-mode-infrared-image-colorization/13196-6#_=_) <br> 
 
 The code base developed on the Implementation of **Generating Visible Spectrum Images From Thermal Infrared** <br>
 [Generating Visible Spectrum Images From Thermal Infrared](https://openaccess.thecvf.com/content_cvpr_2018_workshops/w21/html/Berg_Generating_Visible_Spectrum_CVPR_2018_paper.html) <br>
