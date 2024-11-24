@@ -1,12 +1,10 @@
 # MULTI-MODE INFRARED IMAGE COLORIZATION
 
-This is an implementation of the "MULTI-MODE INFRARED IMAGE COLORIZATION" paper.
+This is an implementation of the ["MULTI-MODE INFRARED IMAGE COLORIZATION" paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13196/1319606/Multi-mode-infrared-image-colorization/10.1117/12.3037131.short#_=_).
 
-Our paper: Accepted to [Artificial Intelligence and Image and Signal Processing for Remote Sensing XXX, SPIE](https://spie.org/spie-sensors-imaging/presentation/Multi-mode-infrared-image-colorization/13196-6#_=_) <br> 
 
-The code base developed on the Implementation of **Generating Visible Spectrum Images From Thermal Infrared** <br>
+The code base developed on the [Implementation of **Generating Visible Spectrum Images From Thermal Infrared**](https://github.com/amandaberg/TIRcolorization)<br>
 [Generating Visible Spectrum Images From Thermal Infrared](https://openaccess.thecvf.com/content_cvpr_2018_workshops/w21/html/Berg_Generating_Visible_Spectrum_CVPR_2018_paper.html) <br>
-[Implementation of Generating Visible Spectrum Images From Thermal Infrared](https://github.com/amandaberg/TIRcolorization) <br>
 
 ## How to Run
 
